@@ -161,3 +161,23 @@
 | Unique Solutions | SIH25007 | Ministry of Fisheries, Animal Husbandry & Dairying | Development of a Digital Farm Management Portal for Monitoring aximum Residue Limits (MRL) and Antimicrobial Usage (AMU) in Livestock | Unique Farm | 0/300 |
 | Unique Solutions | SIH25010 | Government of Punjab | Smart Crop Advisory System for Small and Marginal Farmers | Unique Agriculture | 4/300 |
 | Pipeline & Workflow Systems | SIH25023 | Ministry of Ayush | AyurSutra- Panchakarma Patient Management and therapy scheduling Software | Pipeline Healthcare | 3/300 |
+
+## Hidden-Gem SOFTWARE Problem Statements (0-5/300 Submissions)
+
+| PS Number | Organization | Problem Statement Title | Technology Focus | Submissions | Why It's a Hidden Gem |
+|-----------|--------------|------------------------|------------------|-------------|-------------------|
+| SIH25240 | NTRO | AI/ML based text-to-text machine translation from Nepalese and Sinhalese to English | NLP/Translation | 0/300 | High-impact multilingual AI with geopolitical relevance |
+| SIH25191 | Ministry of Power | Development of AI/ML enabled Digital Twin for EHV 400/220 kV Substation | Digital Twin/IoT | 0/300 | Critical infrastructure modernization with industry applications |
+| SIH25175 | ISRO | MAITRI: An AI Assistant for Psychological & Physical Well-Being of Astronauts | AI Healthcare | 0/300 | Unique space medicine application with broader healthcare potential |
+| SIH25220 | Ministry of Science & Technology | Digital Contact Tracing and Screening Tool for MDR Pathogens in Hospitals | Healthcare AI | 0/300 | Post-pandemic relevance with advanced pathogen detection |
+| SIH25222 | Ministry of Science & Technology | Digital Twin for CO₂ Capture in Urban Settings | Climate Tech | 0/300 | Climate change solution with urban planning applications |
+| SIH25179 | ISRO | Quantum Secure Email Client Application | Quantum Security | 0/300 | Next-generation cybersecurity with quantum computing |
+| SIH25174 | ISRO | Neural Net based Android Application for Real-Time Fish Catch Identification, Health, and Volume Estimation | Mobile AI | 0/300 | Fisheries technology with computer vision and mobile integration |
+| SIH25169 | ISRO | LunaBot: Autonomous Navigation of Robot for Lunar Habitats | Space Robotics | 0/300 | Cutting-edge space exploration technology |
+| SIH25160 | AICTE | AI-Driven Next-Generation Firewall for Dynamic Threat Detection and Zero Trust Implementation | Cybersecurity | 0/300 | Advanced cybersecurity with zero-trust architecture |
+| SIH25168 | MoA&FW | Enhancing farmer productivity through innovative technology solutions | AgriTech | 0/300 | Broad agriculture innovation scope with ministerial backing |
+| SIH25076 | Government of Kerala | AI-Based Farmer Query Support and Advisory System | AgriTech AI | 2/300 | State-sponsored agriculture innovation with AI chatbot potential |
+| SIH25024 | Ministry of Ayush | Comprehensive Cloud-Based Practice Management & Nutrient Analysis Software for Ayurvedic Dietitians | HealthTech | 1/300 | Traditional medicine meets modern technology |
+| SIH25033 | Ministry of Corporate Affairs | AI-Based Smart Allocation Engine for PM Internship Scheme | AI Matching | 2/300 | National internship program optimization |
+| SIH25071 | Ministry of Mines | AI-Based Rockfall Prediction and Alert System for Open-Pit Mines | Safety AI | 1/300 | Mining safety with predictive analytics |
+| SIH25030 | Government of Jharkhand | AI-Based Crop Recommendation for Farmers | AgriTech | 5/300 | State agriculture program with practical implementation scope |
